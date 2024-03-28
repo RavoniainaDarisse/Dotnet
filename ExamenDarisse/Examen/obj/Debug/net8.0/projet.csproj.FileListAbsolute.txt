@@ -1,0 +1,8 @@
+F:\lesson\projeako\.NetJahdy\projet\obj\Debug\net8.0\projet.csproj.AssemblyReference.cache
+F:\lesson\projeako\.NetJahdy\projet\obj\Debug\net8.0\projet.GeneratedMSBuildEditorConfig.editorconfig
+F:\lesson\projeako\.NetJahdy\projet\obj\Debug\net8.0\projet.AssemblyInfoInputs.cache
+F:\lesson\projeako\.NetJahdy\projet\obj\Debug\net8.0\projet.AssemblyInfo.cs
+F:\lesson\projeako\.NetJahdy\projet\obj\Debug\net8.0\projet.csproj.CoreCompileInputs.cache
+F:\lesson\projeako\.NetJahdy\projet\obj\Debug\net8.0\projet.MvcApplicationPartsAssemblyInfo.cache
+F:\lesson\projeako\.NetJahdy\projet\obj\Debug\net8.0\projet.RazorAssemblyInfo.cache
+F:\lesson\projeako\.NetJahdy\projet\obj\Debug\net8.0\projet.RazorAssemblyInfo.cs

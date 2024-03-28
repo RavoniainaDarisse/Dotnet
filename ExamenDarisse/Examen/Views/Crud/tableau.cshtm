@@ -1,0 +1,28 @@
+@model IEnumerable<Examen.Models.Utilisateur>
+
+<h2>Liste des Utilisateurs</h2>
+<hr />
+<table class="table">
+    <thead>
+        <tr>
+            <th>Nom</th>
+            <th>Prénom</th>
+            <th>Email</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var utilisateur in Model)
+        {
+            <tr>
+                <td>@utilisateur.Nom</td>
+                <td>@utilisateur.Prenom</td>
+                <td>@utilisateur.Email</td>
+                <td>
+                    <a asp-controller="Crud" asp-action="Update" asp-route-id="@utilisateur.Id">Modifier</a> |
+                    <a asp-controller="Crud" asp-action="Delete" asp-route-id="@utilisateur.Id">Supprimer</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
